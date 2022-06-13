@@ -23,4 +23,4 @@ phases:
       
   post_build:
     commands:
-      - echo Build completed in `date`
+      - echo Build completed on `date`
